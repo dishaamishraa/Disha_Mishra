@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Disha
-- 👀 I’m interested in Data science and web development. 
+- 👋 Hi, I’m Disha 
 --->
